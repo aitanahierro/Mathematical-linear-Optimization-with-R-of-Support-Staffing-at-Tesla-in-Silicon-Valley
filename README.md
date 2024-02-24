@@ -20,7 +20,7 @@ compromising cost-efficiency.
 Our project's foundation in R programming and mathematical concepts facilitated a robust and data-driven approach to address staffing optimization, offering Tesla's call center a framework to make informed decisions regarding workforce 
 management while optimizing operational expenses.
 
-
+Authors: Aitana Hierro, Judy Jiang, Virti Sheth, Agustin Arcos.
 
 
 
